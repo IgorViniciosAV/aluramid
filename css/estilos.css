@@ -69,7 +69,7 @@ h1 {
 
 @media screen and (max-width: 400px) {
   .tecla {
-    border-radius: 22px;
+    border-radius: 5px;
     height: 100px;
     font-size: 1.60rem;
     line-height: 100px;
@@ -77,5 +77,6 @@ h1 {
   }
   .teclado {
     margin-bottom: 10em;
+    border-radius: 10px;
   }
 }
